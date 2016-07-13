@@ -1,7 +1,3 @@
-# Graph Panel -  Native Plugin
+# Hubble Graph Plugin
 
-The Graph is the main graph panel and is **included** with Grafana. It provides a very rich set of graphing options.
-
-Read more about it here:
-
-[http://docs.grafana.org/reference/graph/](http://docs.grafana.org/reference/graph/)
+This is a grafana panel plugin. It is doing exactly the same as the Grafana's Graph plugin, called Hubble Graph (this name can be changed), except that it will not allow user to modify some of the tabs in Edit mode (we can choose which tab)
